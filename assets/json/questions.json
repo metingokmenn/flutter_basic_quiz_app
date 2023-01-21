@@ -1,0 +1,87 @@
+[
+    {
+        "id" : 1,
+        "question" : "What is the most frequently used language for the data science?",
+        "selected_answer" : "A",
+        "answers" : {
+            "answer_a" : "Java",
+            "answer_b" : "C#",
+            "answer_c" : "Python",
+            "answer_d" : "Javascript"
+        },
+        "correct_answers" : {
+            "answer_a_correct" : false,
+            "answer_b_correct" : false,
+            "answer_c_correct" : true,
+            "answer_d_correct" : false
+        }
+    },
+    {
+        "id" : 2,
+        "question" : "What does SDLC stands for?",
+        "selected_answer" : "A",
+        "answers" : {
+            "answer_a" : "System Design Life Cycle",
+            "answer_b" : "Software Design Life Cycle",
+            "answer_c" : "Software Development Life Cycle",
+            "answer_d" : "System Development Life Cycle"
+        },
+        "correct_answers" : {
+            "answer_a_correct" : false,
+            "answer_b_correct" : false,
+            "answer_c_correct" : true,
+            "answer_d_correct" : false
+        }
+    },
+    {
+        "id" : 3,
+        "question" : "Which one of the below is not a part of software processes?",
+        "selected_answer" : "A",
+        "answers" : {
+            "answer_a" : "Validation",
+            "answer_b" : "Specification",
+            "answer_c" : "Development",
+            "answer_d" : "Dependence"
+        },
+        "correct_answers" : {
+            "answer_a_correct" : false,
+            "answer_b_correct" : false,
+            "answer_c_correct" : false,
+            "answer_d_correct" : true
+        }
+    },
+    {
+        "id" : 4,
+        "question" : "What is a Functional Requirement?",
+        "selected_answer" : "A",
+        "answers" : {
+            "answer_a" : "specifies the tasks the program must complete",
+            "answer_b" : "specifies the tasks the program should not complete#",
+            "answer_c" : "specifies the tasks the program must not work",
+            "answer_d" : "All of the mentioned"
+        },
+        "correct_answers" : {
+            "answer_a_correct" : true,
+            "answer_b_correct" : false,
+            "answer_c_correct" : false,
+            "answer_d_correct" : false
+        }
+    },
+    {
+        "id" : 5,
+        "question" : "Who proposed the spiral model?",
+        "selected_answer" : "A",
+        "answers" : {
+            "answer_a" : "Barry Boehm",
+            "answer_b" : "Pressman",
+            "answer_c" : "Royce",
+            "answer_d" : "IBM"
+        },
+        "correct_answers" : {
+            "answer_a_correct" : true,
+            "answer_b_correct" : false,
+            "answer_c_correct" : false,
+            "answer_d_correct" : false
+        }
+    }
+]
